@@ -17,6 +17,11 @@ This is a lightweight AI-powered tool that extracts and summarises Google Maps r
 - Scan reviews in bulk without manually reading them
 - Collect insights from local businesses, cafes, service providers, and more
 
+## Demo
+
+![Demo GIF](demo.gif)
+
+
 ## Installation Instructions
 
 ### 1. Clone the repository
